@@ -60,23 +60,18 @@ def policy_evaluation(P, nS, nA, policy, gamma=0.9, tol=1e-3):
     while True:
         delta = 0.0
         l = 0
-        for s in range(0, nS):
+        for s in range(nS):
             l = l + 1
             print(l)
             k = 0.0
-            for a in range(0, nA):
+            for a in range(nA):
                 (probability, nextstate, reward, terminal) = P[s][a][0]
-                if terminal:
-                    nv = 0
-                else:
-                    nv = value_function[nextstate]
-                k += probability * (reward + gamma * nv)
-            k = k / nA
+                k = max(k, probability * (reward + gamma * value_function[nextstate]))
             delta = max(delta, abs(value_function[s] - k))
             value_function[s] = k
 
         if delta < tol:
-            return value_function
+            break
 
     ############################
     return value_function
@@ -106,16 +101,12 @@ def policy_improvement(P, nS, nA, value_from_policy, policy, gamma=0.9):
 
     ############################
     # YOUR IMPLEMENTATION HERE #
-    for s in range(0, nS):
+    for s in range(nS):
         m = float("-inf")
         fa = 0
-        for a in range(0, nA):
+        for a in range(nA):
             (probability, nextstate, reward, terminal) = P[s][a][0]
-            if terminal:
-                nv = 0
-            else:
-                nv = value_from_policy[nextstate]
-            nv = probability * (reward + gamma * nv)
+            nv = probability * (reward + gamma * value_from_policy[nextstate])
             if (m < nv):
                 m = nv
                 fa = a
@@ -178,7 +169,7 @@ def value_iteration(P, nS, nA, gamma=0.9, tol=1e-3):
     ############################
     # YOUR IMPLEMENTATION HERE #
 
-    value_function = policy_evaluation(P, nS, nA, gamma, tol)
+    value_function = policy_evaluation(P, nS, nA, policy, gamma, tol)
     policy = policy_improvement(P, nS, nA, value_function, policy, gamma)
 
     ############################
