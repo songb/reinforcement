@@ -66,6 +66,7 @@ def policy_evaluation(P, nS, nA, policy, gamma=0.9, tol=1e-3):
             k = 0.0
             for a in range(nA):
                 (probability, nextstate, reward, terminal) = P[s][a][0]
+                # k = sum((k,probability * (reward + gamma * value_function[nextstate])))
                 k = max(k, probability * (reward + gamma * value_function[nextstate]))
             delta = max(delta, abs(value_function[s] - k))
             value_function[s] = k
