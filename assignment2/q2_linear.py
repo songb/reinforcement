@@ -195,7 +195,7 @@ class Linear(DQN):
         not_done = 1 - tf.cast(self.done_mask, tf.float32)
 
 
-        q_samp = self.r+ not_done*self.config.gamma*tf.reduce_max(target_q)
+        q_samp = self.r+ not_done*self.config.gamma*tf.reduce_max(target_q, axis=1)
 
         action_matrix = tf.one_hot(self.a, num_actions)
         q_sa = tf.reduce_sum(q*action_matrix, axis=1)
