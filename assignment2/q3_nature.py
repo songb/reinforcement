@@ -55,10 +55,11 @@ class NatureQN(Linear):
         ##############################################################
         ################ YOUR CODE HERE - 10-15 lines ################
         with tf.variable_scope(scope, reuse=reuse):
-            conv1 = tf.layers.conv2d(inputs=state, filters=16, kernel_size=[8,8], strides=4, activation=tf.nn.relu, name=scope+'-conv1')
-            conv2 = tf.layers.conv2d(inputs=conv1, filters=32, kernel_size=[4,4], strides=2, activation=tf.nn.relu, name=scope+'-conv2')
-            flat = tf.layers.flatten(conv2, name=scope+'-flattern')
-            dense = tf.layers.dense(inputs=flat, units=256, activation=tf.nn.relu, name=scope+'-dense')
+            conv1 = tf.layers.conv2d(inputs=state, filters=32, kernel_size=[8,8], strides=4, padding='same', activation=tf.nn.relu, name=scope+'-conv1')
+            conv2 = tf.layers.conv2d(inputs=conv1, filters=64, kernel_size=[4,4], strides=2, padding='same', activation=tf.nn.relu, name=scope+'-conv2')
+            conv3 = tf.layers.conv2d(inputs=conv2, filters=64, kernel_size=[3,3], strides=1, padding='same', activation=tf.nn.relu, name=scope+'-conv3')
+            flat = tf.layers.flatten(conv3, name=scope+'-flattern')
+            dense = tf.layers.dense(inputs=flat, units=512, activation=tf.nn.relu, name=scope+'-dense')
             out = tf.layers.dense(inputs=dense, units=num_actions,name=scope+'-out')
 
         ##############################################################

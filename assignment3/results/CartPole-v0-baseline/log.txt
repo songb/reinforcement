@@ -1,0 +1,962 @@
+2019-09-10 21:06:16,949:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-10 21:06:45,238:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-10 21:06:49,861:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-10 21:08:18,582:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-10 21:08:18,599:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-10 21:08:23,613:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-10 21:08:23,640:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-10 21:09:30,961:WARNING: From <string>:1: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-10 21:09:30,982:WARNING: Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+2019-09-10 21:09:31,004:WARNING: Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+2019-09-10 21:11:05,074:WARNING: Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+2019-09-10 21:11:05,097:WARNING: Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+2019-09-10 21:13:25,165:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-10 21:13:25,182:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-10 21:13:29,487:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-10 21:13:29,494:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-10 21:13:30,294:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-11 18:50:23,804:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-11 18:51:48,087:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-11 18:51:48,110:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-11 18:51:48,111:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-11 18:51:48,117:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-11 18:51:48,895:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-11 18:51:52,514:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-11 18:52:43,416:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-11 18:52:43,432:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-11 18:52:43,433:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-11 18:52:43,438:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-11 18:52:44,229:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-11 18:52:44,240:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-11 19:46:20,642:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-11 19:46:20,662:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-11 19:46:20,663:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-11 19:46:20,669:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-11 19:46:21,485:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-11 19:46:21,497:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-11 19:51:28,923:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-11 19:52:40,724:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-11 19:52:40,744:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-11 19:52:40,745:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-11 19:52:40,751:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-11 19:52:42,223:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-11 19:52:42,324:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-11 19:52:46,500:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-11 19:52:46,717:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-11 19:53:57,487:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-11 19:55:28,521:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-11 19:55:33,332:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-11 19:57:33,866:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-11 19:57:53,005:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-11 19:59:24,583:INFO: Making new env: CartPole-v0
+2019-09-11 20:02:22,493:INFO: Starting new video recorder writing to /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/results/CartPole-v0-baseline/openaigym.video.0.11465.video000000.mp4
+2019-09-11 20:02:39,613:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/results/CartPole-v0-baseline')
+2019-09-12 20:46:34,446:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-12 20:46:34,464:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-12 20:46:34,465:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-12 20:46:34,471:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-12 20:46:35,273:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-12 20:46:35,295:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-12 20:47:17,455:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-12 20:47:31,404:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-12 20:47:33,056:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-12 20:47:33,076:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-12 20:47:46,330:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-12 20:48:14,593:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-12 20:48:30,186:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-12 20:48:30,244:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-12 20:48:53,079:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-12 20:48:59,755:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-12 20:49:01,939:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-12 20:49:09,504:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-12 20:49:13,817:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-12 20:49:26,998:INFO: Making new env: CartPole-v0
+2019-09-12 20:49:32,404:INFO: Starting new video recorder writing to /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/results/CartPole-v0-baseline/openaigym.video.0.12484.video000000.mp4
+2019-09-12 20:49:45,462:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/results/CartPole-v0-baseline')
+2019-09-15 10:06:03,625:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 10:06:03,661:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 10:06:03,662:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 10:06:03,676:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 10:06:05,381:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 10:06:05,397:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 10:06:05,660:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 10:06:05,682:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 10:06:05,937:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 10:06:05,948:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 10:06:05,967:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 10:06:05,969:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 10:06:06,083:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 10:45:00,626:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 10:45:00,642:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 10:45:00,643:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 10:45:00,648:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 10:45:01,429:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 10:45:01,439:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 10:45:01,670:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 10:45:01,689:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 10:45:01,887:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 10:45:01,896:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 10:45:01,909:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 10:45:01,911:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 10:45:01,971:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 10:46:59,834:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 10:46:59,850:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 10:46:59,851:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 10:46:59,855:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 10:47:00,645:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 10:47:00,655:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 10:47:00,895:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 10:47:00,917:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 10:47:01,145:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 10:47:01,151:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 10:47:01,160:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 10:47:01,162:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 10:47:01,222:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 10:50:29,240:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 10:50:29,256:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 10:50:29,257:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 10:50:29,262:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 10:50:30,071:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 10:50:30,083:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 10:50:30,339:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 10:50:30,363:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 10:50:30,595:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 10:50:30,601:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 10:50:30,609:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 10:50:30,610:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 10:50:30,670:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 10:52:13,991:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 10:52:14,007:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 10:52:14,008:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 10:52:14,013:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 10:52:14,803:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 10:52:14,813:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 10:52:15,069:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 10:52:15,099:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 10:52:15,317:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 10:52:15,323:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 10:52:15,331:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 10:52:15,333:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 10:52:15,394:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 10:52:47,494:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 10:52:47,511:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 10:52:47,512:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 10:52:47,518:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 10:52:48,325:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 10:52:48,336:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 10:52:48,595:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 10:52:48,624:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 10:52:48,858:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 10:52:48,863:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 10:52:48,871:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 10:52:48,873:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 10:52:48,933:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 10:56:10,604:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 10:56:10,621:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 10:56:10,622:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 10:56:10,627:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 10:56:11,403:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 10:56:11,414:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 10:56:11,642:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 10:56:11,662:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 10:56:11,863:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 10:56:11,872:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 10:56:11,883:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 10:56:11,885:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 10:56:11,948:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 10:58:49,553:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 10:58:49,570:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 10:58:49,571:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 10:58:49,576:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 10:58:50,355:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 10:59:17,267:WARNING: Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+2019-09-15 10:59:17,301:WARNING: Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+2019-09-15 10:59:40,649:WARNING: Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+2019-09-15 10:59:40,694:WARNING: Tensor._shape is private, use Tensor.shape instead. Tensor._shape will eventually be removed.
+2019-09-15 11:01:01,492:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 11:01:01,510:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 11:01:01,511:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 11:01:01,516:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 11:01:02,296:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 11:01:09,519:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 11:01:09,783:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 11:01:09,801:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 11:01:09,997:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 11:01:10,002:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 11:01:10,009:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 11:01:10,011:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 11:01:10,070:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 14:11:26,722:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 14:11:26,740:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 14:11:26,741:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 14:11:26,746:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 14:11:27,555:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 14:11:27,566:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 14:11:27,797:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 14:11:27,817:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 14:11:28,030:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 14:11:28,036:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 14:11:28,045:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 14:11:28,047:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 14:11:28,108:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 14:16:58,407:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 14:16:58,423:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 14:16:58,424:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 14:16:58,429:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 14:16:59,227:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 14:16:59,238:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 14:16:59,462:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 14:16:59,482:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 14:16:59,719:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 14:16:59,730:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 14:16:59,739:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 14:16:59,741:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 14:16:59,798:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 14:19:47,561:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 14:19:47,577:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 14:19:47,578:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 14:19:47,583:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 14:19:48,380:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 14:19:48,391:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 14:19:48,623:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 14:19:48,643:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 14:19:48,843:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 14:19:48,852:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 14:19:48,864:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 14:19:48,866:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 14:19:48,932:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 14:32:13,066:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 14:32:13,084:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 14:32:13,085:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 14:32:13,090:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 14:32:13,903:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 14:32:13,915:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 14:32:14,159:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 14:32:14,178:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 14:32:14,379:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 14:32:14,388:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 14:32:14,398:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 14:32:14,400:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 14:32:14,461:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 14:35:06,207:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 14:35:06,223:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 14:35:06,224:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 14:35:06,229:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 14:35:07,032:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 14:35:07,043:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 14:35:07,266:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 14:35:53,508:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 14:35:53,532:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 14:35:53,535:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 14:35:53,547:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 14:35:54,430:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 14:35:54,441:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 14:35:54,695:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 14:37:52,171:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 14:37:52,187:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 14:37:52,188:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 14:37:52,192:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 14:37:52,978:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 14:37:52,989:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 14:37:53,227:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 14:37:53,318:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 14:37:53,624:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 14:37:53,629:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 14:37:53,637:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 14:37:53,639:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 14:37:53,720:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 14:38:58,030:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 14:38:58,046:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 14:38:58,047:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 14:38:58,052:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 14:38:58,839:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 14:38:58,852:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 14:40:18,748:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 14:40:18,862:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 14:40:19,204:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 14:40:19,209:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 14:40:19,218:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 14:40:19,221:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 14:40:19,301:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 14:43:02,901:INFO: Average reward: 28.14 +/- 2.46
+2019-09-15 14:43:30,098:INFO: Average reward: 34.29 +/- 4.59
+2019-09-15 14:43:32,820:INFO: Average reward: 35.93 +/- 3.20
+2019-09-15 14:43:35,482:INFO: Average reward: 49.95 +/- 6.81
+2019-09-15 14:43:38,249:INFO: Average reward: 47.33 +/- 5.45
+2019-09-15 14:43:42,290:INFO: Average reward: 49.40 +/- 6.40
+2019-09-15 14:43:45,206:INFO: Average reward: 72.62 +/- 9.38
+2019-09-15 14:43:47,920:INFO: Average reward: 73.92 +/- 9.25
+2019-09-15 14:43:50,582:INFO: Average reward: 76.54 +/- 9.24
+2019-09-15 14:43:53,251:INFO: Average reward: 93.33 +/- 20.71
+2019-09-15 14:43:56,123:INFO: Average reward: 118.38 +/- 16.13
+2019-09-15 14:43:59,773:INFO: Average reward: 147.33 +/- 10.59
+2019-09-15 14:44:02,745:INFO: Average reward: 140.00 +/- 19.41
+2019-09-15 14:44:05,674:INFO: Average reward: 142.43 +/- 11.94
+2019-09-15 14:44:08,439:INFO: Average reward: 163.20 +/- 16.03
+2019-09-15 14:44:11,086:INFO: Average reward: 161.00 +/- 15.25
+2019-09-15 14:44:13,747:INFO: Average reward: 160.33 +/- 18.70
+2019-09-15 14:44:16,387:INFO: Average reward: 145.17 +/- 25.97
+2019-09-15 14:44:19,024:INFO: Average reward: 161.80 +/- 19.12
+2019-09-15 14:44:21,745:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:44:24,498:INFO: Average reward: 173.20 +/- 23.97
+2019-09-15 14:44:27,189:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:44:29,857:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:44:32,508:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:44:35,172:INFO: Average reward: 167.00 +/- 14.05
+2019-09-15 14:44:37,844:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:44:40,589:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:44:43,224:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:44:45,904:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:44:48,563:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:44:51,204:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:44:53,905:INFO: Average reward: 188.60 +/- 10.20
+2019-09-15 14:44:56,558:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:44:59,205:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:01,869:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:04,541:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:07,194:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:09,836:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:12,477:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:15,134:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:17,770:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:20,421:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:23,057:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:25,731:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:28,373:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:31,031:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:33,675:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:36,324:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:38,970:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:41,626:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:44,267:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:46,928:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:49,639:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:52,377:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:56,025:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:45:59,370:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:02,465:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:05,307:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:08,120:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:11,033:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:13,922:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:17,416:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:21,146:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:24,887:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:29,039:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:32,459:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:36,224:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:39,471:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:43,658:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:47,216:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:51,288:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:46:54,371:INFO: Average reward: 184.20 +/- 14.13
+2019-09-15 14:46:57,393:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:47:00,795:INFO: Average reward: 197.80 +/- 1.97
+2019-09-15 14:47:04,716:INFO: Average reward: 189.40 +/- 9.48
+2019-09-15 14:47:08,231:INFO: Average reward: 180.40 +/- 17.53
+2019-09-15 14:47:12,249:INFO: Average reward: 175.00 +/- 13.71
+2019-09-15 14:47:15,623:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:47:19,108:INFO: Average reward: 163.50 +/- 20.81
+2019-09-15 14:47:22,593:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:47:25,530:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:47:28,301:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:47:31,652:INFO: Average reward: 172.40 +/- 17.92
+2019-09-15 14:47:34,837:INFO: Average reward: 186.20 +/- 12.34
+2019-09-15 14:47:38,092:INFO: Average reward: 189.80 +/- 9.12
+2019-09-15 14:47:41,901:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:47:44,561:INFO: Average reward: 143.17 +/- 33.04
+2019-09-15 14:47:47,176:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:47:49,794:INFO: Average reward: 148.00 +/- 28.41
+2019-09-15 14:47:52,962:INFO: Average reward: 173.40 +/- 23.79
+2019-09-15 14:47:56,762:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:48:00,052:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:48:04,516:INFO: Average reward: 160.17 +/- 23.22
+2019-09-15 14:48:08,577:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:48:13,543:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:48:16,975:INFO: Average reward: 185.00 +/- 13.42
+2019-09-15 14:48:20,478:INFO: Average reward: 192.00 +/- 7.16
+2019-09-15 14:48:24,358:INFO: Average reward: 196.60 +/- 3.04
+2019-09-15 14:48:28,276:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:48:31,393:INFO: Average reward: 200.00 +/- 0.00
+2019-09-15 14:48:31,395:INFO: - Training done.
+2019-09-15 14:48:59,471:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 14:48:59,487:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 14:48:59,488:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 14:48:59,494:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 14:49:00,311:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 14:49:00,322:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 14:49:00,549:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 14:49:00,641:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 14:49:00,947:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 14:49:00,951:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 14:49:00,959:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 14:49:00,961:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 14:49:01,043:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 14:49:01,694:INFO: Average reward: 18.74 +/- 1.13
+2019-09-15 14:49:02,146:INFO: Average reward: 21.13 +/- 1.52
+2019-09-15 14:49:02,588:INFO: Average reward: 21.19 +/- 1.57
+2019-09-15 14:49:03,036:INFO: Average reward: 24.52 +/- 1.99
+2019-09-15 14:49:03,503:INFO: Average reward: 21.63 +/- 1.22
+2019-09-15 14:49:03,964:INFO: Average reward: 22.16 +/- 1.23
+2019-09-15 14:49:04,420:INFO: Average reward: 20.37 +/- 1.31
+2019-09-15 14:49:04,876:INFO: Average reward: 22.02 +/- 1.55
+2019-09-15 14:49:05,337:INFO: Average reward: 20.25 +/- 1.57
+2019-09-15 14:49:05,797:INFO: Average reward: 22.18 +/- 1.49
+2019-09-15 14:50:47,745:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 14:50:47,761:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 14:50:47,762:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 14:50:47,767:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 14:50:48,702:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 14:50:48,713:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 14:50:48,937:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 14:50:49,039:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 14:50:49,333:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 14:50:49,337:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 14:50:49,345:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 14:50:49,347:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 14:50:49,425:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 14:50:50,076:INFO: Average reward: 24.90 +/- 2.14
+2019-09-15 14:50:50,534:INFO: Average reward: 28.46 +/- 3.11
+2019-09-15 14:50:50,989:INFO: Average reward: 28.79 +/- 2.33
+2019-09-15 14:50:51,447:INFO: Average reward: 35.11 +/- 3.87
+2019-09-15 14:50:51,908:INFO: Average reward: 40.33 +/- 4.49
+2019-09-15 14:50:52,367:INFO: Average reward: 38.48 +/- 4.01
+2019-09-15 14:50:52,824:INFO: Average reward: 48.40 +/- 4.26
+2019-09-15 14:50:53,286:INFO: Average reward: 44.09 +/- 2.60
+2019-09-15 14:50:53,742:INFO: Average reward: 61.81 +/- 8.75
+2019-09-15 14:50:54,201:INFO: Average reward: 54.94 +/- 4.11
+2019-09-15 14:50:54,648:INFO: Average reward: 82.00 +/- 11.41
+2019-09-15 14:50:55,107:INFO: Average reward: 65.07 +/- 5.55
+2019-09-15 14:50:55,563:INFO: Average reward: 57.88 +/- 5.66
+2019-09-15 14:50:56,015:INFO: Average reward: 70.31 +/- 6.76
+2019-09-15 14:50:56,476:INFO: Average reward: 80.45 +/- 11.07
+2019-09-15 15:12:01,710:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 15:12:01,729:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 15:12:01,730:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 15:12:01,736:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 15:12:02,663:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 15:12:02,677:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 15:12:02,937:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 15:12:03,029:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 15:12:03,346:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 15:12:03,351:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 15:12:03,359:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 15:12:03,361:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 15:12:03,447:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 15:12:04,177:INFO: Average reward: 17.17 +/- 1.10
+2019-09-15 15:12:04,666:INFO: Average reward: 21.91 +/- 1.80
+2019-09-15 15:12:05,155:INFO: Average reward: 24.82 +/- 1.77
+2019-09-15 15:12:05,630:INFO: Average reward: 24.20 +/- 2.14
+2019-09-15 15:13:05,413:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 15:13:05,430:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 15:13:05,431:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 15:13:05,436:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 15:13:06,224:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 15:13:06,234:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 15:13:06,457:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 15:13:06,549:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 15:13:06,849:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 15:13:06,854:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 15:13:06,862:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 15:13:06,864:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 15:13:06,944:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 15:13:07,622:INFO: Average reward: 20.20 +/- 1.09
+2019-09-15 15:13:08,230:INFO: Average reward: 25.71 +/- 2.20
+2019-09-15 15:13:08,685:INFO: Average reward: 26.00 +/- 1.82
+2019-09-15 15:13:09,136:INFO: Average reward: 35.32 +/- 4.06
+2019-09-15 15:13:09,592:INFO: Average reward: 40.29 +/- 4.61
+2019-09-15 15:13:10,046:INFO: Average reward: 38.23 +/- 3.88
+2019-09-15 15:13:16,933:INFO: Average reward: 43.17 +/- 5.09
+2019-09-15 15:13:17,406:INFO: Average reward: 54.61 +/- 7.39
+2019-09-15 15:13:17,871:INFO: Average reward: 48.89 +/- 3.32
+2019-09-15 15:13:18,339:INFO: Average reward: 73.62 +/- 8.85
+2019-09-15 15:13:18,866:INFO: Average reward: 61.88 +/- 7.54
+2019-09-15 15:13:19,351:INFO: Average reward: 76.15 +/- 7.61
+2019-09-15 15:13:19,819:INFO: Average reward: 76.33 +/- 7.75
+2019-09-15 15:13:20,291:INFO: Average reward: 92.10 +/- 7.93
+2019-09-15 15:13:20,761:INFO: Average reward: 80.83 +/- 8.78
+2019-09-15 15:13:21,222:INFO: Average reward: 101.56 +/- 10.56
+2019-09-15 15:13:21,672:INFO: Average reward: 86.64 +/- 9.17
+2019-09-15 15:13:22,131:INFO: Average reward: 104.67 +/- 13.26
+2019-09-15 15:13:22,608:INFO: Average reward: 98.11 +/- 11.15
+2019-09-15 15:13:23,056:INFO: Average reward: 103.67 +/- 13.82
+2019-09-15 15:13:23,525:INFO: Average reward: 82.67 +/- 6.25
+2019-09-15 15:13:23,999:INFO: Average reward: 109.33 +/- 8.09
+2019-09-15 15:13:24,477:INFO: Average reward: 108.00 +/- 13.48
+2019-09-15 15:13:24,931:INFO: Average reward: 124.75 +/- 9.80
+2019-09-15 15:13:25,388:INFO: Average reward: 110.00 +/- 8.71
+2019-09-15 15:13:25,838:INFO: Average reward: 97.00 +/- 5.70
+2019-09-15 15:13:26,308:INFO: Average reward: 99.20 +/- 6.72
+2019-09-15 15:13:26,780:INFO: Average reward: 113.25 +/- 7.66
+2019-09-15 15:13:27,234:INFO: Average reward: 117.38 +/- 13.53
+2019-09-15 15:13:27,714:INFO: Average reward: 113.75 +/- 10.87
+2019-09-15 15:13:28,212:INFO: Average reward: 110.89 +/- 11.31
+2019-09-15 15:14:01,755:INFO: - Training done.
+2019-09-15 16:30:09,060:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:122: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2019-09-15 16:30:09,081:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:58: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2019-09-15 16:30:09,082:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:59: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-09-15 16:30:09,088:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2019-09-15 16:30:09,927:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.random.categorical` instead.
+2019-09-15 16:30:09,938:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:230: The name tf.train.AdamOptimizer is deprecated. Please use tf.compat.v1.train.AdamOptimizer instead.
+
+2019-09-15 16:30:10,195:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:262: The name tf.losses.mean_squared_error is deprecated. Please use tf.compat.v1.losses.mean_squared_error instead.
+
+2019-09-15 16:30:10,299:WARNING: From /Users/admin/Desktop/ml/lib/python3.7/site-packages/tensorflow/python/ops/losses/losses_impl.py:121: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2019-09-15 16:30:10,668:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:297: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2019-09-15 16:30:10,674:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:318: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2019-09-15 16:30:10,683:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:324: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2019-09-15 16:30:10,685:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:325: The name tf.summary.FileWriter is deprecated. Please use tf.compat.v1.summary.FileWriter instead.
+
+2019-09-15 16:30:10,782:WARNING: From /Users/admin/Desktop/CODE/reinforcement/reinforcement/assignment3/pg.py:301: The name tf.global_variables_initializer is deprecated. Please use tf.compat.v1.global_variables_initializer instead.
+
+2019-09-15 16:30:11,481:INFO: Average reward: 24.68 +/- 2.22
+2019-09-15 16:30:11,950:INFO: Average reward: 24.20 +/- 2.39
+2019-09-15 16:30:12,403:INFO: Average reward: 26.86 +/- 2.85
+2019-09-15 16:30:12,874:INFO: Average reward: 26.73 +/- 2.47
+2019-09-15 16:30:13,334:INFO: Average reward: 33.07 +/- 2.65
+2019-09-15 16:30:13,792:INFO: Average reward: 26.24 +/- 2.37
+2019-09-15 16:30:14,253:INFO: Average reward: 29.52 +/- 2.94
+2019-09-15 16:30:14,728:INFO: Average reward: 31.00 +/- 3.70
+2019-09-15 16:30:15,193:INFO: Average reward: 28.85 +/- 3.11
+2019-09-15 16:30:15,666:INFO: Average reward: 27.42 +/- 2.29
+2019-09-15 16:30:16,136:INFO: Average reward: 29.03 +/- 2.47
+2019-09-15 16:30:16,602:INFO: Average reward: 32.03 +/- 4.11
